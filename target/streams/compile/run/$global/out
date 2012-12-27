@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0mRunning Main [0m
+[0m[[0mdebug[0m] [0mStarting sandboxed run...[0m
+[0m[[0mdebug[0m] [0mWaiting for threads to exit or System.exit to be called.[0m
+[0m[[0mdebug[0m] [0m  Classpath:[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/redis-actor/target/scala-2.10/classes[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/.sbt/boot/scala-2.10.0/lib/scala-library.jar[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/.ivy2/cache/com.typesafe.akka/akka-actor_2.10/bundles/akka-actor_2.10-2.1.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/.ivy2/cache/com.typesafe/config/bundles/config-1.0.0.jar[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/.ivy2/cache/io.spray/spray-io/jars/spray-io-1.1-M7.jar[0m
+[0m[[0mdebug[0m] [0m	/home/rajiv/.ivy2/cache/io.spray/spray-util/jars/spray-util-1.1-M7.jar[0m
+[0m[[0mdebug[0m] [0mWaiting for thread run-main to exit[0m
+[0m[[0mdebug[0m] [0m	Thread run-main exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread default-akka.actor.default-dispatcher-5 to exit[0m
+[0m[[0mdebug[0m] [0m	Thread default-akka.actor.default-dispatcher-5 exited.[0m
+[0m[[0mdebug[0m] [0mWaiting for thread default-scheduler-1 to exit[0m
